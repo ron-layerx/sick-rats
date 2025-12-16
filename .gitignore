@@ -2,3 +2,4 @@ objects.txt
 artifacts/
 extensions/
 scan.txt
+http-client.env.json
