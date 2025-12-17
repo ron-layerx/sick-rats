@@ -19,6 +19,7 @@ adjfdlhnepkgmidfkdhlpkdfciajoepj/openai.json
 afbnmdelllgcnlkmjbladanbjfebiofp/openai.json
 aflkiacolbidnaahjjikjcehfgbnlgmm/openai.json
 agbdecajmglhpgabancmgkgnefmhbimn/openai.json
+# abmegjbfpbiheedegdhjhnboefgdnanm/rapidapi.html
 
 # Invalid/Empty Responses (CORRECTED):
 # aablhocpokemmcjkhlffllfkookhlnbh/flickr.json: Auth Error: Invalid API Key (Key has expired)
@@ -31,7 +32,6 @@ agbdecajmglhpgabancmgkgnefmhbimn/openai.json
 # abbjllenkjbbklkehmljabjdjmpgclob/rapidapi.json: Empty file
 # abbmjlpgpmmkgfhdbbnbhbkacbkbfnbe/fixerio.json: API Error: Unknown error
 # ablamagaaelfnngdkechlgcjkbojpikg/openai.json: Empty file
-# abmegjbfpbiheedegdhjhnboefgdnanm/rapidapi.json: Empty file
 # aboddfhaehoapinagnkobiookjembpkb/onesignal.json: Access denied (invalid API key)
 # abpagigmmiamliljdfcfefpnimpckgfk/onesignal.json: Access denied (invalid API key)
 # abphfielbkegjokgonaahdibkmlemoog/infura.json: MOVED TO VALID
