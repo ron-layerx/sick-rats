@@ -1,0 +1,5 @@
+{
+  "errors": [
+    "Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys)."
+  ]
+}

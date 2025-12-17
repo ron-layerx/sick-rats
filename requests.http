@@ -1,4 +1,4 @@
-### completion
+###
 
 POST https://api.openai.com/v1/chat/completions HTTP/1.1
 Authorization: Bearer {{aaepjbmphhjfofejacnmnaghfkpkcifb_openai}}

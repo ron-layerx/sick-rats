@@ -1,0 +1,6 @@
+{
+  "status": 401,
+  "code": "tokenNotProvided",
+  "message": "No authorization data was found on the request",
+  "type": "error"
+}

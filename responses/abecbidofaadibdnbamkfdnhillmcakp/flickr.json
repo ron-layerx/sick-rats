@@ -1,0 +1,15 @@
+{
+  "method": {
+    "_content": "flickr.test.echo"
+  },
+  "api_key": {
+    "_content": "3a284a20775d915c86a9d8426a40d804"
+  },
+  "format": {
+    "_content": "json"
+  },
+  "nojsoncallback": {
+    "_content": "1"
+  },
+  "stat": "ok"
+}

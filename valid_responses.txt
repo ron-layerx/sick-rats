@@ -1,0 +1,59 @@
+# Valid API Response Files (CORRECTED - FOR WAKANDA!)
+# Re-verified manually - removed responses with error messages
+# Total valid responses: 19
+
+# Valid Responses (actually working APIs):
+aaancijikkkaajhfdphabakclepdooen/openweather.json
+aacfjdlinogfkihpmhaagoejofgbnlgd/telegrambottoken.json
+aaeandmpmgjpfdoochgdgemapgjafenm/cryptocompare.json
+aaepjbmphhjfofejacnmnaghfkpkcifb/openai.json
+aainjoipbaddijpnidnmlffnjcafhkgd/openai.json
+aapcfnbknpcpodppipjkhjihkobjdged/weatherstack.json
+abecbidofaadibdnbamkfdnhillmcakp/flickr.json
+abedhonfilfoedpnlhhapjmhlmgjlmkg/newsapi.json
+abkgckcpmnbipkfhkkchkdfkmccjdmkh/alchemy.json
+abkgckcpmnbipkfhkkchkdfkmccjdmkh/infura.json
+abphfielbkegjokgonaahdibkmlemoog/infura.json
+adflnodjnplbnpacolobeckphmjeggmj/openai.json
+adjfdlhnepkgmidfkdhlpkdfciajoepj/openai.json
+afbnmdelllgcnlkmjbladanbjfebiofp/openai.json
+afhfkagadaalleklmplfbilhcflmdibg/openai.json
+afjbidcpbfhgmaphnedkifdbdpbnngbo/openai.json
+aflkiacolbidnaahjjikjcehfgbnlgmm/openai.json
+afmodkjhmglpnomeindmmkfofgjandcl/atlassian.json
+agbdecajmglhpgabancmgkgnefmhbimn/openai.json
+
+# Invalid/Empty Responses (CORRECTED):
+# aablhocpokemmcjkhlffllfkookhlnbh/flickr.json: Auth Error: Invalid API Key (Key has expired)
+# aabbipmglhnhnfhldkkbjiegbhdpmgep/miro.json: HTTP 401 Unauthorized
+# aacnakggjhpkobmgcbngbljobfaejaoi/twitchaccesstoken.json: Auth Error: invalid access token
+# aaepafjfmdmlpjjhnlmablfbllgiapjd/twitchaccesstoken.json: Auth Error: invalid access token
+# aahppbieennbnhnibbpakediocidhpii/sumologickey.json: Empty file
+# aajdkangkldmljmoaoehmbnchdjkgojk/atlassian.json: Auth Error: Unauthorized
+# aajdkangkldmljmoaoehmbnchdjkgojk/snykkey.json: HTTP 401 Unauthorized
+# abbjllenkjbbklkehmljabjdjmpgclob/rapidapi.json: Empty file
+# abbmjlpgpmmkgfhdbbnbhbkacbkbfnbe/fixerio.json: API Error: Unknown error
+# ablamagaaelfnngdkechlgcjkbojpikg/openai.json: Empty file
+# abmegjbfpbiheedegdhjhnboefgdnanm/rapidapi.json: Empty file
+# aboddfhaehoapinagnkobiookjembpkb/onesignal.json: Access denied (invalid API key)
+# abpagigmmiamliljdfcfefpnimpckgfk/onesignal.json: Access denied (invalid API key)
+# abphfielbkegjokgonaahdibkmlemoog/infura.json: MOVED TO VALID
+# ackdcbfplbohdekimihaiioefmoninag/onesignal.json: Access denied (invalid API key)
+# acleolbhhggjllbhebhhnicbbldmngpn/openai.json: API Error: Incorrect API key
+# aclndpdolidgppgldanekobkelgkbnpl/openai.json: API Error: Incorrect API key
+# acloabcdfghhiaobjcimakhfdajcjamc/openai.json: API Error: Incorrect API key
+# acoghllfancelnlokfebfojbkoeblann/miro.json: HTTP 401 Unauthorized
+# adalpkfiafoaooegmpdckffogckejpef/openai.json: API Error: Incorrect API key
+# addoplpjimhgkhmohkkpehjjokflnlcp/rapidapi.json: Empty file
+# adjbliolkblbfipefgepajagppalmbkg/openai.json: API Error: Incorrect API key
+# aeachknmefphepccionboohckonoeemg/infura.json: Empty file
+# aebgfnbiigmgljkikpooogbaehlcfcgp/onesignal.json: Access denied (invalid API key)
+# aeclfmgjfpkekfjjefhangcfodaflcgb/onesignal.json: Access denied (invalid API key)
+# aeddiddllknokoohijkihhlhdknnoanb/openai.json: API Error: Incorrect API key
+# aejicjejolicflpaiinppoahcodcleoa/twitchaccesstoken.json: Auth Error: invalid access token
+# aeopdihkpamaccekhlejkpnlimcjodec/telegrambottoken.json: API Error: Incorrect API key
+# afdfpkhbdpioonfeknablodaejkklbdn/openai.json: API Error: Incorrect API key
+# afhlppemmpcmcemhhakipebecoiimaha/openai.json: API Error: Incorrect API key
+# afinpfknmmcbkmbgjcoljffonbmkccnl/twitchaccesstoken.json: Auth Error: invalid access token
+# afngkmlagonopibmhcienodokonohdlh/onesignal.json: Empty file
+# aggkaaocjganbkpebcifmphkiphajdel/twitchaccesstoken.json: Auth Error: invalid access token
