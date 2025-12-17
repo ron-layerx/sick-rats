@@ -17,10 +17,7 @@ abphfielbkegjokgonaahdibkmlemoog/infura.json
 adflnodjnplbnpacolobeckphmjeggmj/openai.json
 adjfdlhnepkgmidfkdhlpkdfciajoepj/openai.json
 afbnmdelllgcnlkmjbladanbjfebiofp/openai.json
-afhfkagadaalleklmplfbilhcflmdibg/openai.json
-afjbidcpbfhgmaphnedkifdbdpbnngbo/openai.json
 aflkiacolbidnaahjjikjcehfgbnlgmm/openai.json
-afmodkjhmglpnomeindmmkfofgjandcl/atlassian.json
 agbdecajmglhpgabancmgkgnefmhbimn/openai.json
 
 # Invalid/Empty Responses (CORRECTED):
@@ -57,3 +54,6 @@ agbdecajmglhpgabancmgkgnefmhbimn/openai.json
 # afinpfknmmcbkmbgjcoljffonbmkccnl/twitchaccesstoken.json: Auth Error: invalid access token
 # afngkmlagonopibmhcienodokonohdlh/onesignal.json: Empty file
 # aggkaaocjganbkpebcifmphkiphajdel/twitchaccesstoken.json: Auth Error: invalid access token
+# afhfkagadaalleklmplfbilhcflmdibg/openai.json: API Error: Incorrect API key
+# afjbidcpbfhgmaphnedkifdbdpbnngbo/openai.json: API Error: Incorrect API key
+# afmodkjhmglpnomeindmmkfofgjandcl/atlassian.json: HTTP 401 Unauthorized
